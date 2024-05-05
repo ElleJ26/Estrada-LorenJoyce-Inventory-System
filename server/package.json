@@ -1,0 +1,15 @@
+{
+  "name": "elle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ellserver.mjs",
+  "scripts": {
+    "test": "node elleserver.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
